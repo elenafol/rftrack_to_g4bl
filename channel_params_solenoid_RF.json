@@ -133,7 +133,7 @@
     "gradient": 10.3,
     "ncav_rot": 2,
     "ncav_accel" : 5,
-    "cav_len": 0.5,
+    "cav_len": 0.5
   
   },
 
@@ -156,7 +156,7 @@
   "gradient": 8.91,
   "ncav_rot": 2,
   "ncav_accel" : 3,
-  "cav_len": 0.5,
+  "cav_len": 0.5
 
 },
 
@@ -179,7 +179,7 @@
 "gradient": 8,
 "ncav_rot": 2,
 "ncav_accel" : 3,
-"cav_len": 0.5,
+"cav_len": 0.5
 
 },
 
