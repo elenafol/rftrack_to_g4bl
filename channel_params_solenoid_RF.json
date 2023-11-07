@@ -15,9 +15,9 @@
       "sol_len": 1.2,
       "low_bz": 3.5,
       
-      "freq" : 0,
-      "gradient": 0,
-      "ncav_rot": 0,
+      "freq" : 81.67,
+      "gradient": 17,
+      "ncav_rot": 4,
       "ncav_accel" : 0,
       "cav_len": 0
     
